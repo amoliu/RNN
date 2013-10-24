@@ -1,14 +1,15 @@
 #!/usr/bin/env python
 
-class LSTM:
+
+class ESN:
     def __init__(self):
         pass
-
     def setInput(self, x):
         pass
 
 def main():
-    lstm = LSTM()
+    esn = ESN()
     
+
 if __name__ == "__main__":
     main()
